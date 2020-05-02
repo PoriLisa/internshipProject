@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+
+    <item
+        android:id="@+id/blog"
+        android:icon="@drawable/blog_"
+        android:title="Blog" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_social_media"
+        android:title="Youtube" />
+    <item
+        android:id="@+id/ic_insta"
+        android:icon="@drawable/ic_instagram_logo"
+        android:title="Instagram" />
+    <item
+        android:id="@+id/facebook"
+        android:icon="@drawable/ic_iconfinder_circle_facebook"
+        android:title="Facebook" />
+
+    <item
+        android:id="@+id/aboutus"
+        android:icon="@drawable/ic_about_us"
+        android:title="Aboutus" />
+    <item
+        android:id="@+id/more_apps"
+        android:icon="@drawable/ic_more_apps"
+        android:title="More apps" />
+    <item
+        android:id="@+id/ratings"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="Rate this apps" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout" />
+
+</menu>
